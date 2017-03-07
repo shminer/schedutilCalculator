@@ -8,7 +8,7 @@
  * 
  */
 int main(){
-	int bitshift = 0, freqTotal = 0, freq = 1, shift = 0;
+	int bitshift = 0, freqTotal = 0, freq = 0, shift = 0;
 	float percentage = 0, tippingPoint = 0;
 	printf("enter max freq: ");
 	scanf("%d",&freq);
